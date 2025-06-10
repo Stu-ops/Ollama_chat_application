@@ -1,0 +1,6 @@
+streamlit==1.28.1
+python-socketio[client]==5.8.0
+requests==2.31.0
+python-dotenv==1.0.0
+# Additional Streamlit components (optional but useful)
+streamlit-chat==0.1.1
