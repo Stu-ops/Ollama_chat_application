@@ -15,7 +15,7 @@
 
   <h2>🎥 Demo Video</h2>
   <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dcsJC71RYmk" frameborder="0" allowfullscreen></iframe>
+    <p> Video LINK : https://www.youtube.com/watch?v=dcsJC71RYmk "</p>
   </div>
   
   <h2>🚀 Quick Start</h2>
