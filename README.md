@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Ollama Chat App - README</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6; }
-    h1, h2 { color: #2c3e50; }
-    code, pre { background-color: #f4f4f4; padding: 0.2em 0.4em; border-radius: 4px; }
-    .video-container { margin-top: 20px; }
-  </style>
-</head>
 <body>
 
   <h1>💬 Ollama Chat App</h1>
@@ -28,7 +15,7 @@
 
   <h2>🎥 Demo Video</h2>
   <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_HERE" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dcsJC71RYmk" frameborder="0" allowfullscreen></iframe>
   </div>
   
   <h2>🚀 Quick Start</h2>
