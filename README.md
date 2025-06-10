@@ -15,7 +15,7 @@
 
   <h2>🎥 Demo Video</h2>
   <div class="video-container">
-    <p> Video LINK : https://www.youtube.com/watch?v=dcsJC71RYmk "</p>
+    <p> Video LINK : https://www.youtube.com/watch?v=dcsJC71RYmk </p>
   </div>
   
   <h2>🚀 Quick Start</h2>
